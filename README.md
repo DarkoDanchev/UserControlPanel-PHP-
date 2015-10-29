@@ -11,4 +11,4 @@ You have an example sql file uploaded.
 
 Images:
 
-![](https://www.dropbox.com/s/y0x4p3mukybka7l/Screenshot 2015-10-29 20.03.59.png)
+![](http://i.imgur.com/BJVwKaH.png)
