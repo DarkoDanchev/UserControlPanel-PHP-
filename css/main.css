@@ -1,0 +1,120 @@
+body {
+    background-repeat: no-repeat;
+    background-size: 1920 , 1080;
+}
+
+.logform {
+  position:absolute;
+  left:45%;
+  top:50%;
+  
+}
+.zaboravena{
+color:#1FF10B;
+}
+.zaboravena:visited {
+color:#1FF10B;
+}
+.zaboravena:hover {
+    color: #FF0707;
+}
+body{
+background-color:blue;
+}
+.tekst{
+color:#9F0303;
+position:absolute;
+top:45%;
+left:53%;
+}
+.biog{
+color:#9F0303;
+position:absolute;
+top:30%;
+left:30%;
+}
+.dpanel{
+color:#9F0303;
+position:absolute;
+top:20%;
+left:5%;
+}
+.adminpanel{
+color:#9F0303;
+position:absolute;
+top:10%;
+left:55%;
+}
+.svpanel{
+color:#9F0303;
+position:absolute;
+top:10%;
+left:80%;
+}
+.lpanel{
+color:#9F0303;
+position:absolute;
+top:25%;
+left:55%;
+}
+.profpanel{
+color:#069B0B;
+position:absolute;
+top:10%;
+left:1%;
+}
+.crveno{
+
+
+position:absolute;
+top:45%;
+left:1%;
+
+}
+.naskoro{
+position:absolute;
+top:50%;
+left:50%;
+
+}
+.bio{
+font-size:25px;
+
+}
+/*.panel{
+  position:absolute;
+  left:45%;
+  top:50%;
+  width:400px;
+  
+}*/
+
+.panel-body{
+width:650px;
+
+}
+
+.uplatnica{
+position:absolute;
+left:-52%;
+top:-80%;
+}
+.desen-panel{
+color:#9F0303;
+position:absolute;
+top:80%;
+left:50%;
+}
+.profslika{
+width:65px;
+height:80px;
+
+}
+#ppanel{
+width:300px;
+
+}
+#аpanel{
+width:300px;
+
+}
